@@ -1,0 +1,25 @@
+Metric,Group,Test,Statistic,P-value,Distribution
+Total Nuclei per Case,MSS/TMB-H,Shapiro-Wilk,0.9207,0.0247,Non-normal
+Total Nuclei per Case,MSS/TMB-L,Shapiro-Wilk,0.9818,0.0004,Non-normal
+Total Nuclei per Case,MSI-H,Shapiro-Wilk,0.9772,0.0086,Non-normal
+Mean Nuclei per Tile,MSS/TMB-H,Shapiro-Wilk,0.9578,0.2550,Normal
+Mean Nuclei per Tile,MSS/TMB-L,Shapiro-Wilk,0.6734,0.0000,Non-normal
+Mean Nuclei per Tile,MSI-H,Shapiro-Wilk,0.6600,0.0000,Non-normal
+Mean Cell normalized,MSS/TMB-H,Shapiro-Wilk,0.1951,0.0000,Non-normal
+Mean Cell normalized,MSS/TMB-L,Shapiro-Wilk,0.6731,0.0000,Non-normal
+Mean Cell normalized,MSI-H,Shapiro-Wilk,0.6816,0.0000,Non-normal
+Neoplastic %,MSS/TMB-H,Shapiro-Wilk,0.9233,0.0289,Non-normal
+Neoplastic %,MSS/TMB-L,Shapiro-Wilk,0.9424,0.0000,Non-normal
+Neoplastic %,MSI-H,Shapiro-Wilk,0.9573,0.0001,Non-normal
+Inflammatory %,MSS/TMB-H,Shapiro-Wilk,0.9211,0.0253,Non-normal
+Inflammatory %,MSS/TMB-L,Shapiro-Wilk,0.8776,0.0000,Non-normal
+Inflammatory %,MSI-H,Shapiro-Wilk,0.9708,0.0016,Non-normal
+Connective %,MSS/TMB-H,Shapiro-Wilk,0.9164,0.0190,Non-normal
+Connective %,MSS/TMB-L,Shapiro-Wilk,0.9678,0.0000,Non-normal
+Connective %,MSI-H,Shapiro-Wilk,0.9810,0.0243,Non-normal
+Necrosis %,MSS/TMB-H,Shapiro-Wilk,0.7612,0.0000,Non-normal
+Necrosis %,MSS/TMB-L,Shapiro-Wilk,0.6568,0.0000,Non-normal
+Necrosis %,MSI-H,Shapiro-Wilk,0.6289,0.0000,Non-normal
+Inflammatory Normalized,MSS/TMB-H,Shapiro-Wilk,0.2416,0.0000,Non-normal
+Inflammatory Normalized,MSS/TMB-L,Shapiro-Wilk,0.6735,0.0000,Non-normal
+Inflammatory Normalized,MSI-H,Shapiro-Wilk,0.6594,0.0000,Non-normal

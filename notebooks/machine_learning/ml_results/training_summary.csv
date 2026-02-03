@@ -1,0 +1,13 @@
+model_name,strategy,train_time,n_train_samples,model_path,status
+logistic_regression,class_weight,0.08566522598266602,411,results/models/logistic_regression_class_weight.pkl,success
+logistic_regression,smote,0.1403658390045166,768,results/models/logistic_regression_smote.pkl,success
+logistic_regression,combined,0.15621471405029297,756,results/models/logistic_regression_combined.pkl,success
+random_forest,class_weight,0.2821931838989258,411,results/models/random_forest_class_weight.pkl,success
+random_forest,smote,0.29185009002685547,768,results/models/random_forest_smote.pkl,success
+random_forest,combined,0.29064440727233887,756,results/models/random_forest_combined.pkl,success
+xgboost,class_weight,0.13063836097717285,411,results/models/xgboost_class_weight.pkl,success
+xgboost,smote,0.14414739608764648,768,results/models/xgboost_smote.pkl,success
+xgboost,combined,0.14116764068603516,756,results/models/xgboost_combined.pkl,success
+mlp,class_weight,0.07336735725402832,411,results/models/mlp_class_weight.pkl,success
+mlp,smote,0.11307668685913086,768,results/models/mlp_smote.pkl,success
+mlp,combined,0.13958096504211426,756,results/models/mlp_combined.pkl,success
