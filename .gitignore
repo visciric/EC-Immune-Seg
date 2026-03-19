@@ -93,7 +93,7 @@ temp/
 # Output directories
 img_output/
 output/
-results/
+#results/
 predictions/
 logs/
 slrums/
